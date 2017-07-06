@@ -338,7 +338,7 @@ hr {
 
 @media all and (min-width: 1010px) {
 	.wrap{
-		max-width: 1200px
+		max-width: 1300px;
 	}
 	.nav h1 { 
 		font-size:2rem; 
